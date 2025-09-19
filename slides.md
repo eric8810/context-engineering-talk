@@ -472,3 +472,23 @@ R_total = α·R_task + β·R_efficiency + γ·R_safety + δ·R_user
 让模型成为自主的智能体
 
 Q & A
+
+---
+
+# 相关图片展示
+
+<div class="grid grid-cols-2 gap-4">
+
+<img src="./assets/微信图片_20250919102930_29_14.jpg" class="w-full h-auto" />
+
+<img src="./assets/微信图片_20250919102931_30_14.jpg" class="w-full h-auto" />
+
+<img src="./assets/微信图片_20250919102932_31_14.jpg" class="w-full h-auto" />
+
+<img src="./assets/微信图片_20250919102933_32_14.jpg" class="w-full h-auto" />
+
+<img src="./assets/微信图片_20250919102935_33_14.jpg" class="w-full h-auto" />
+
+<img src="./assets/微信图片_20250919102936_34_14.jpg" class="w-full h-auto" />
+
+</div>
