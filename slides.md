@@ -477,18 +477,26 @@ Q & A
 
 # 相关图片展示
 
-<div class="grid grid-cols-2 gap-4">
+<div class="grid grid-cols-3 gap-2 h-full">
 
-<img src="./assets/微信图片_20250919102930_29_14.jpg" class="w-full h-auto" />
+<img src="./assets/微信图片_20250919102930_29_14.jpg" class="h-full w-auto object-contain" />
 
-<img src="./assets/微信图片_20250919102931_30_14.jpg" class="w-full h-auto" />
+<img src="./assets/微信图片_20250919102931_30_14.jpg" class="h-full w-auto object-contain" />
 
-<img src="./assets/微信图片_20250919102932_31_14.jpg" class="w-full h-auto" />
+<img src="./assets/微信图片_20250919102932_31_14.jpg" class="h-full w-auto object-contain" />
 
-<img src="./assets/微信图片_20250919102933_32_14.jpg" class="w-full h-auto" />
+</div>
 
-<img src="./assets/微信图片_20250919102935_33_14.jpg" class="w-full h-auto" />
+---
 
-<img src="./assets/微信图片_20250919102936_34_14.jpg" class="w-full h-auto" />
+# 相关图片展示 (续)
+
+<div class="grid grid-cols-3 gap-2 h-full">
+
+<img src="./assets/微信图片_20250919102933_32_14.jpg" class="h-full w-auto object-contain" />
+
+<img src="./assets/微信图片_20250919102935_33_14.jpg" class="h-full w-auto object-contain" />
+
+<img src="./assets/微信图片_20250919102936_34_14.jpg" class="h-full w-auto object-contain" />
 
 </div>
